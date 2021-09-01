@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>9/1/21 assignment</title>
+  </head>
+  <body>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Semper auctor neque vitae tempus quam pellentesque. Cras semper auctor neque vitae. Purus semper eget duis at. Aliquam purus sit amet luctus venenatis lectus magna fringilla urna. Facilisis mauris sit amet massa vitae tortor condimentum. Aenean sed adipiscing diam donec adipiscing tristique risus nec. Ut aliquam purus sit amet luctus venenatis lectus magna. Pellentesque pulvinar pellentesque habitant morbi tristique senectus et netus. Nunc mattis enim ut tellus elementum sagittis. Tortor at risus viverra adipiscing at in tellus integer. Pharetra pharetra massa massa ultricies mi. Ornare massa eget egestas purus viverra accumsan. Est sit amet facilisis magna etiam tempor orci eu lobortis. Faucibus scelerisque eleifend donec pretium vulputate sapien nec. Nulla facilisi cras fermentum odio eu feugiat pretium nibh. Condimentum id venenatis a condimentum vitae.
+    Et molestie ac feugiat sed lectus vestibulum mattis. Donec massa sapien faucibus et molestie. A diam maecenas sed enim ut sem viverra. In eu mi bibendum neque egestas congue. Nunc non blandit massa enim nec dui nunc mattis. Aliquam nulla facilisi cras fermentum odio eu. Hac habitasse platea dictumst vestibulum rhoncus. Sagittis id consectetur purus ut faucibus pulvinar elementum integer enim. Amet mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium nibh. Nulla porttitor massa id neque aliquam vestibulum morbi blandit cursus.
+  </body>
 
-You can use the [editor on GitHub](https://github.com/Maximo-Vela/9-1-2021-task/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Maximo-Vela/9-1-2021-task/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
